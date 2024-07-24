@@ -43,7 +43,7 @@ Used Eclipse IDE for Java development and running automated tests. Eclipse provi
 - Code editing and debugging.
 - Integrated build tools.
 - Plugin support for various frameworks and languages.
-- 
+  
 ### Prerequisites
 - Java JDK
 - Eclipse IDE
